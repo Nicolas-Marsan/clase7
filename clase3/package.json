@@ -1,0 +1,14 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "proecto de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nico",
+  "license": "ISC",
+  "dependencies": {
+    "popular-movie-quotes": "^1.2.4"
+  }
+}
