@@ -1,0 +1,26 @@
+git remote add origin https://github.com/Nicolas-Marsan/clase7.git
+primero
+
+git add .
+
+para preparar cambios
+
+git commit -m 'mesanje'
+
+para subir los cambios al repositorio remoto
+
+git push origin master
+o
+git push origin main
+
+para ver las credenciales
+
+git config -l
+git config --global -l
+
+configurar el repositorio remoto
+git add origin URLdelrepositorio
+
+si hay cambios
+
+git pull origin master
